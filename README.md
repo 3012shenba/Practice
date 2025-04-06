@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/3012shenba/Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/3012shenba/Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/3012shenba/Practice/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
