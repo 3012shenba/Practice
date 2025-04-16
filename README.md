@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/3012shenba/Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/3012shenba/Practice/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/3012shenba/Practice/tree/master/0043-multiply-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
