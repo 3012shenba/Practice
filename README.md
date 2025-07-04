@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/3012shenba/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3012shenba/Practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/3012shenba/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/3012shenba/Practice/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/3012shenba/Practice/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/3012shenba/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
 ## Simulation
 |  |
