@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/3012shenba/Practice/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/3012shenba/Practice/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/3012shenba/Practice/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/3012shenba/Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/3012shenba/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/3012shenba/Practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/3012shenba/Practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
