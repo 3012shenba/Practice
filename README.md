@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/3012shenba/Practice/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/3012shenba/Practice/tree/master/0065-valid-number) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
 ## Simulation
 |  |
