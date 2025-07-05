@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/3012shenba/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3012shenba/Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/3012shenba/Practice/tree/master/0066-plus-one) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/3012shenba/Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/3012shenba/Practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/3012shenba/Practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
