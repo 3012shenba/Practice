@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/3012shenba/Practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/3012shenba/Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/3012shenba/Practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
