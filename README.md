@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/3012shenba/Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/3012shenba/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/3012shenba/Practice/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/3012shenba/Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/3012shenba/Practice/tree/master/0228-summary-ranges) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/3012shenba/Practice/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/3012shenba/Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
