@@ -17,10 +17,8 @@ class Solution {
     }
     public static int gcd(int min,int max)
     {
-        while(max!=0)
-        {
-            return gcd(max,min%max);
-        }
+       if(max==0)
         return min;
+     return gcd(max,min%max);
     }
 }
