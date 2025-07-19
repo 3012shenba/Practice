@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/3012shenba/Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/3012shenba/Practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
