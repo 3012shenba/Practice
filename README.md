@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/3012shenba/Practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/3012shenba/Practice/tree/master/0596-classes-with-at-least-5-students) |
+| [1193-monthly-transactions-i](https://github.com/3012shenba/Practice/tree/master/1193-monthly-transactions-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/3012shenba/Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting
 |  |
