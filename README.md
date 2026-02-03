@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/3012shenba/Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/3012shenba/Practice/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/3012shenba/Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/3012shenba/Practice/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/3012shenba/Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/3012shenba/Practice/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/3012shenba/Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/3012shenba/Practice/tree/master/0228-summary-ranges) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/3012shenba/Practice/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Database
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/3012shenba/Practice/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/3012shenba/Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
