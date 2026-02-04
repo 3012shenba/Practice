@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/3012shenba/Practice/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/3012shenba/Practice/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/3012shenba/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/3012shenba/Practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/3012shenba/Practice/tree/master/0190-reverse-bits) |
 ## Number Theory
 |  |
 | ------- |
