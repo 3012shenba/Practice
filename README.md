@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/3012shenba/Practice/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/3012shenba/Practice/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/3012shenba/Practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/3012shenba/Practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/3012shenba/Practice/tree/master/0620-not-boring-movies) |
