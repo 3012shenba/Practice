@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/3012shenba/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/3012shenba/Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/3012shenba/Practice/tree/master/1920-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/3012shenba/Practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/3012shenba/Practice/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/3012shenba/Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
