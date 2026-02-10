@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/3012shenba/Practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/3012shenba/Practice/tree/master/0412-fizz-buzz) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/3012shenba/Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/3012shenba/Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/3012shenba/Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/3012shenba/Practice/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/3012shenba/Practice/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/3012shenba/Practice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/3012shenba/Practice/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/3012shenba/Practice/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/3012shenba/Practice/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
