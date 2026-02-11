@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/3012shenba/Practice/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/3012shenba/Practice/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/3012shenba/Practice/tree/master/1512-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/3012shenba/Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/3012shenba/Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/3012shenba/Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/3012shenba/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/3012shenba/Practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/3012shenba/Practice/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/3012shenba/Practice/tree/master/1920-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/3012shenba/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/3012shenba/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/3012shenba/Practice/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/3012shenba/Practice/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/3012shenba/Practice/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/3012shenba/Practice/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
 | ------- |
