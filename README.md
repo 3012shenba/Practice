@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/3012shenba/Practice/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/3012shenba/Practice/tree/master/1512-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/3012shenba/Practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/3012shenba/Practice/tree/master/2469-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/3012shenba/Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
